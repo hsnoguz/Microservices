@@ -26,6 +26,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PhotoStock", "PhotoStock", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeCourse.Services.PhotoStock", "Services\PhotoStock\FreeCourse.Services.PhotoStock\FreeCourse.Services.PhotoStock.csproj", "{09DB98F6-8FE8-45BF-B368-0C2723702019}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basket", "Basket", "{5293BCA2-6D82-4C98-98E9-EA8004BF8931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Free.Course.Services.Basket", "Services\Basket\Free.Course.Services.Basket\Free.Course.Services.Basket.csproj", "{A99E557E-8424-4560-80DD-5BB846D6DF2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +52,10 @@ Global
 		{09DB98F6-8FE8-45BF-B368-0C2723702019}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09DB98F6-8FE8-45BF-B368-0C2723702019}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09DB98F6-8FE8-45BF-B368-0C2723702019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A99E557E-8424-4560-80DD-5BB846D6DF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A99E557E-8424-4560-80DD-5BB846D6DF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A99E557E-8424-4560-80DD-5BB846D6DF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A99E557E-8424-4560-80DD-5BB846D6DF2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -59,6 +67,8 @@ Global
 		{F0CCC428-0041-4E33-AE8D-520E50C16FD7} = {F6E6CB7C-3584-4148-AA3C-F10BA45BE5C6}
 		{D9E9E747-3EE6-4EE1-A74D-88FAF8D1CDED} = {21647F28-30A6-49C8-A661-E1E6DD3471E9}
 		{09DB98F6-8FE8-45BF-B368-0C2723702019} = {D9E9E747-3EE6-4EE1-A74D-88FAF8D1CDED}
+		{5293BCA2-6D82-4C98-98E9-EA8004BF8931} = {21647F28-30A6-49C8-A661-E1E6DD3471E9}
+		{A99E557E-8424-4560-80DD-5BB846D6DF2C} = {5293BCA2-6D82-4C98-98E9-EA8004BF8931}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0E82D3BA-1771-4C75-BD7D-BA90E0C9DF1E}
