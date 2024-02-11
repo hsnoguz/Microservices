@@ -3,4 +3,8 @@ Services
 	 - photostockAPI => 5012
 	 - basketAPI => 5013
 	 - discountAPI => 5014
-	 - identityserver => 5001
+	 - orderAPI => 5015
+	 - fakePaymentAPI => 5016
+- identityserver => 5001
+- gateaway => 5000
+- Web=> 5000
